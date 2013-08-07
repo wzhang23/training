@@ -1,3 +1,0 @@
-Initialize version.
-
-Second version. /* Modified through web on github.com, not on pc client. */

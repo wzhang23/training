@@ -1,4 +1,0 @@
-/*
-* baby_octocat git version control system
-*/
-initial version.

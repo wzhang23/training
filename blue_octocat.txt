@@ -1,4 +1,0 @@
-/*
-* blue_octocat git version control system
-*/
-initial version.
