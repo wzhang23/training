@@ -1,2 +1,0 @@
-/* octodog.txt */
-Initial version.
